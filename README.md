@@ -8,7 +8,7 @@ The official paper collection for **A Survey on Self-Improving Test-Time Intelli
 
 Test-time intelligence improves an active deployed system through feedback-driven state updates, additional inference-time computation, or both. This collection brings together test-time learning, test-time scaling, their intersection, and applications across domains.
 
-[Browse by topic](#browse-by-topic) · [All papers](ALL_PAPERS.md) · [Source survey](#source-survey) · [Contributing](CONTRIBUTING.md) · [Citation](#citation)
+[Browse by topic](#browse-by-topic) · [All papers](ALL_PAPERS.md) · [Contributing](CONTRIBUTING.md) · [Citation](#citation)
 
 ## Browse by topic
 
@@ -20,10 +20,6 @@ Test-time intelligence improves an active deployed system through feedback-drive
 | [Applications](APPLICATIONS.md) | Applying TTI across vision, generative models, language, robotics, agents, and healthcare. | 96 |
 
 **487 unique papers** across four complementary views. See the [complete index](ALL_PAPERS.md).
-
-## Source Survey
-
-- [**A Survey on Self-Improving Test-Time Intelligence: Feedback-Driven Adapting, Learning, and Scaling at Inference**](https://arxiv.org/pdf/2404.01650) — [Machine Intelligence Research](https://link.springer.com/journal/11633), 2026.
 
 ## Contributing
 
@@ -44,10 +40,6 @@ If this survey is useful to your research, please cite:
   year={2026}
 }
 ```
-
-## License
-
-Repository content is available under the [MIT License](LICENSE). The included survey and figure remain the property of their respective authors.
 
 ## Related Resources
 
