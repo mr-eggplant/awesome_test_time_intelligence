@@ -15,7 +15,7 @@ Test-time intelligence improves an active deployed system through feedback-drive
 | Topic | Scope | Unique papers |
 | --- | --- | ---: |
 | [Test-Time Learning](TTL.md) | Learning from test-time inputs and feedback by updating parameters, representations, modules, or memory. | 282 |
-| [Test-Time Scaling](TTS.md) | Improving current inference through additional reasoning, sampling, search, tools, or external resources. | 84 |
+| [Test-Time Scaling](TTS.md) | Improving current inference through additional reasoning, sampling, search, tools, or external resources w/o model state change. | 84 |
 | [Learning and Scaling](Intersection_TTL_TTS.md) | Using inference compute for later learning, learning to allocate compute, and combining both during deployment. | 59 |
 | [Applications](APPLICATIONS.md) | Applying TTI across vision, generative models, language, robotics, agents, and healthcare. | 101 |
 
