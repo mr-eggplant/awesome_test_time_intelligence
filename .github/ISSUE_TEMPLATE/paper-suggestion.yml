@@ -1,0 +1,71 @@
+name: Suggest a paper
+description: Propose a relevant paper or an official implementation.
+title: "[Paper] "
+body:
+  - type: input
+    id: paper
+    attributes:
+      label: Paper title
+      description: Use the exact title from the paper source.
+    validations:
+      required: true
+  - type: input
+    id: authors
+    attributes:
+      label: Authors
+      description: List the authors as stated by the paper source.
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Paper link
+      description: Prefer a publisher, proceedings, arXiv, OpenReview, or author-hosted page.
+    validations:
+      required: true
+  - type: input
+    id: publication
+    attributes:
+      label: Publication details
+      description: Give the publication year and venue, or identify it as a preprint.
+    validations:
+      required: true
+  - type: input
+    id: method
+    attributes:
+      label: Method name (optional)
+      description: Include a method name only if the authors explicitly use one.
+  - type: dropdown
+    id: category
+    attributes:
+      label: Suggested topic
+      options:
+        - Test-Time Learning
+        - Test-Time Scaling
+        - Learning and Scaling
+        - Applications
+        - Unsure
+    validations:
+      required: true
+  - type: input
+    id: placement
+    attributes:
+      label: Suggested section or subsection
+      description: Identify the most suitable existing location as precisely as possible.
+    validations:
+      required: true
+  - type: textarea
+    id: new_classification
+    attributes:
+      label: New classification (optional)
+      description: If the paper does not fit the current taxonomy, feel free to propose a new classification and briefly explain which methods it would organize.
+  - type: input
+    id: code
+    attributes:
+      label: Official implementation (optional)
+      description: Provide a repository identified by the paper or its authors.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes (optional)
+      description: Mention relevant versions, corrections, retractions, or existing entries that may overlap.

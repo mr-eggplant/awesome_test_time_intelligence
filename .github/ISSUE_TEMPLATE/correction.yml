@@ -1,0 +1,30 @@
+name: Report a correction
+description: Correct paper metadata, links, classification, or presentation.
+title: "[Correction] "
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Affected entry or page
+      description: Include the paper title or a link to the relevant repository page.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Proposed correction
+      description: Explain what is incorrect and what should replace it.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Supporting source
+      description: Link to the paper, official implementation, publisher correction, or other evidence. For presentation issues, a screenshot or reproduction steps are helpful.
+    validations:
+      required: true
+  - type: textarea
+    id: classification
+    attributes:
+      label: Classification suggestion (optional)
+      description: If relevant, feel free to suggest a more suitable existing location or a clearer new classification.
