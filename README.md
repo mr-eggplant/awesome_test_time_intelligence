@@ -21,6 +21,14 @@ Test-time intelligence improves an active deployed system through feedback-drive
 
 **487 unique papers** across four complementary views. See the [complete index](ALL_PAPERS.md).
 
+## Evolution of Test-Time Intelligence
+
+<p align="center">
+  <a href="./assets/tti_evolution_timeline.png">
+    <img src="./assets/tti_evolution_timeline.png" alt="Evolution of Test-Time Intelligence" width="100%">
+  </a>
+</p>
+
 ## Contributing
 
 Suggestions for relevant papers, official implementations, and corrections are welcome. See the [contribution guide](CONTRIBUTING.md) to propose an addition or report an issue.
