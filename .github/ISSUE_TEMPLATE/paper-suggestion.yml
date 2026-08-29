@@ -26,8 +26,8 @@ body:
   - type: textarea
     id: relevance
     attributes:
-      label: Why should it be included?
-      description: In one or two sentences, explain how the paper improves an active system at test time.
+      label: Relevance to test-time intelligence
+      description: Briefly describe how the paper relates to improvement during deployment.
       placeholder: This paper updates ... during deployment to improve ...
     validations:
       required: true
