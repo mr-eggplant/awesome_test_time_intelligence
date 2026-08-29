@@ -5,26 +5,22 @@ body:
   - type: input
     id: entry
     attributes:
-      label: Affected entry or page
-      description: Include the paper title or a link to the relevant repository page.
+      label: What needs correction?
+      description: Give the paper title, section name, or repository link so we can locate it.
+      placeholder: Paper title, section name, or URL
     validations:
       required: true
   - type: textarea
     id: correction
     attributes:
-      label: Proposed correction
-      description: Explain what is incorrect and what should replace it.
+      label: What should be changed?
+      description: Briefly describe the problem and the correct information or placement.
+      placeholder: The current entry says ...; it should be ...
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: evidence
     attributes:
-      label: Supporting source
-      description: Link to the paper, official implementation, publisher correction, or other evidence. For presentation issues, a screenshot or reproduction steps are helpful.
-    validations:
-      required: true
-  - type: textarea
-    id: classification
-    attributes:
-      label: Classification suggestion (optional)
-      description: If relevant, feel free to suggest a more suitable existing location or a clearer new classification.
+      label: Supporting link (optional)
+      description: Add an official paper, publisher, project, or correction page when available.
+      placeholder: https://...

@@ -1,71 +1,45 @@
 name: Suggest a paper
-description: Propose a relevant paper or an official implementation.
+description: Suggest a paper for the collection.
 title: "[Paper] "
 body:
-  - type: input
-    id: paper
-    attributes:
-      label: Paper title
-      description: Use the exact title from the paper source.
-    validations:
-      required: true
-  - type: input
-    id: authors
-    attributes:
-      label: Authors
-      description: List the authors as stated by the paper source.
-    validations:
-      required: true
   - type: input
     id: link
     attributes:
       label: Paper link
-      description: Prefer a publisher, proceedings, arXiv, OpenReview, or author-hosted page.
+      description: Link to the paper on a publisher, proceedings, arXiv, OpenReview, or author-hosted page. We will verify the title, authors, year, and venue.
+      placeholder: https://arxiv.org/abs/...
     validations:
       required: true
-  - type: input
-    id: publication
-    attributes:
-      label: Publication details
-      description: Give the publication year and venue, or identify it as a preprint.
-    validations:
-      required: true
-  - type: input
-    id: method
-    attributes:
-      label: Method name (optional)
-      description: Include a method name only if the authors explicitly use one.
   - type: dropdown
     id: category
     attributes:
-      label: Suggested topic
+      label: Where does it belong?
+      description: Select every broad topic that applies. See All papers for the current organization.
+      multiple: true
       options:
         - Test-Time Learning
         - Test-Time Scaling
         - Learning and Scaling
         - Applications
-        - Unsure
-    validations:
-      required: true
-  - type: input
-    id: placement
-    attributes:
-      label: Suggested section or subsection
-      description: Identify the most suitable existing location as precisely as possible.
     validations:
       required: true
   - type: textarea
-    id: new_classification
+    id: relevance
     attributes:
-      label: New classification (optional)
-      description: If the paper does not fit the current taxonomy, feel free to propose a new classification and briefly explain which methods it would organize.
+      label: Why should it be included?
+      description: In one or two sentences, explain how the paper improves an active system at test time.
+      placeholder: This paper updates ... during deployment to improve ...
+    validations:
+      required: true
   - type: input
     id: code
     attributes:
       label: Official implementation (optional)
-      description: Provide a repository identified by the paper or its authors.
+      description: Add a code or project link identified by the paper or its authors.
+      placeholder: https://github.com/...
   - type: textarea
-    id: notes
+    id: new_classification
     attributes:
-      label: Additional notes (optional)
-      description: Mention relevant versions, corrections, retractions, or existing entries that may overlap.
+      label: New classification (optional)
+      description: If a clearer classification is needed, suggest its name and briefly explain what it would cover.
+      placeholder: "Proposed classification: what it covers"
