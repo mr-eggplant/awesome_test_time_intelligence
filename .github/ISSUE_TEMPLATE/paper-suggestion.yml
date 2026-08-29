@@ -31,15 +31,18 @@ body:
       placeholder: This paper updates ... during deployment to improve ...
     validations:
       required: true
+  - type: textarea
+    id: subcategory
+    attributes:
+      label: Suggested subcategory (optional)
+      description: Suggest the most suitable existing subsection from All papers. If none fits, propose a clearer classification and briefly explain what it would cover.
+      placeholder: |
+        Existing subsection: ...
+        or
+        Proposed classification: ...
   - type: input
     id: code
     attributes:
       label: Official implementation (optional)
       description: Add a code or project link identified by the paper or its authors.
       placeholder: https://github.com/...
-  - type: textarea
-    id: new_classification
-    attributes:
-      label: New classification (optional)
-      description: If a clearer classification is needed, suggest its name and briefly explain what it would cover.
-      placeholder: "Proposed classification: what it covers"
