@@ -1,6 +1,6 @@
 name: Suggest a paper
 description: Suggest a paper for the collection.
-title: "[Paper] "
+title: "[New] (paper title here)"
 body:
   - type: input
     id: link

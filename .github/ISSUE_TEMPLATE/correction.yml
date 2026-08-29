@@ -1,6 +1,6 @@
 name: Report a correction
 description: Correct paper metadata, links, classification, or presentation.
-title: "[Correction] "
+title: "[Correction] (paper title here)"
 body:
   - type: input
     id: entry
