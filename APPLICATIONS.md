@@ -27,7 +27,8 @@ A curated paper list for application domains of Test-Time Intelligence (TTI), or
   - [4.2 Online Skill Improvement](#42-online-skill-improvement)
   - [4.3 Planning-Time Scaling](#43-planning-time-scaling)
 - [5. Agentic AI](#5-agentic-ai)
-  - [5.1 Adaptive and Self-Improving Agents](#51-adaptive-and-self-improving-agents)
+  - [5.1 Deployment-Time Agent Adaptation and Learning](#51-deployment-time-agent-adaptation-and-learning)
+  - [5.2 Recursive Agent Self-Improvement](#52-recursive-agent-self-improvement)
 - [6. Healthcare and Personalized AI](#6-healthcare-and-personalized-ai)
   - [6.1 Clinical Environment Adaptation](#61-clinical-environment-adaptation)
   - [6.2 Patient-Specific Adaptation](#62-patient-specific-adaptation)
@@ -175,11 +176,19 @@ A curated paper list for application domains of Test-Time Intelligence (TTI), or
 
 ## 5. Agentic AI
 
-### 5.1 Adaptive and Self-Improving Agents
+### 5.1 Deployment-Time Agent Adaptation and Learning
 
 - `GTTA` [Chen et al., arXiv 2025] **Test-Time Adaptation for LLM Agents via Environment Interaction** [[Paper]](https://arxiv.org/abs/2511.04847) [[G-Scholar]](https://scholar.google.com/scholar?q=Test-Time%20Adaptation%20for%20LLM%20Agents%20via%20Environment%20Interaction)
 - `MAS-on-the-Fly` [Liu et al., arXiv 2026] **MAS-on-the-Fly: Dynamic Adaptation of LLM-based Multi-Agent Systems at Test Time** [[Paper]](https://arxiv.org/abs/2602.13671) [[G-Scholar]](https://scholar.google.com/scholar?q=MAS-on-the-Fly%3A%20Dynamic%20Adaptation%20of%20LLM-based%20Multi-Agent%20Systems%20at%20Test%20Time)
 - `TT-SI` [Acikgoz et al., Findings of ACL 2026] **TT-SI: Self-Improving LLM Agents with Test-Time Training** [[Paper]](https://aclanthology.org/2026.findings-acl.462/) [[G-Scholar]](https://scholar.google.com/scholar?q=TT-SI%3A%20Self-Improving%20LLM%20Agents%20with%20Test-Time%20Training)
+
+### 5.2 Recursive Agent Self-Improvement
+
+- [Robeyns et al., arXiv 2025] **A Self-Improving Coding Agent** [[Paper]](https://arxiv.org/abs/2504.15228) [[G-Scholar]](https://scholar.google.com/scholar?q=A%20Self-Improving%20Coding%20Agent)
+- `Gödel Agent` [Yin et al., ACL 2025] **Gödel Agent: A Self-Referential Agent Framework for Recursively Self-Improvement** [[Paper]](https://aclanthology.org/2025.acl-long.1354/) [[G-Scholar]](https://scholar.google.com/scholar?q=G%C3%B6del%20Agent%3A%20A%20Self-Referential%20Agent%20Framework%20for%20Recursively%20Self-Improvement)
+- `DGM` [Zhang et al., ICLR 2026] **Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents** [[Paper]](https://arxiv.org/abs/2505.22954) [[G-Scholar]](https://scholar.google.com/scholar?q=Darwin%20Godel%20Machine%3A%20Open-Ended%20Evolution%20of%20Self-Improving%20Agents)
+- `Hyperagents` [Zhang et al., arXiv 2026] **Hyperagents** [[Paper]](https://arxiv.org/abs/2603.19461) [[G-Scholar]](https://scholar.google.com/scholar?q=Hyperagents)
+- `MetaSkill-Evolve` [Wang et al., arXiv 2026] **MetaSkill-Evolve: Recursive Self-Improvement of LLM Agents via Two-Timescale Meta-Skill Evolution** [[Paper]](https://arxiv.org/abs/2607.05297) [[G-Scholar]](https://scholar.google.com/scholar?q=MetaSkill-Evolve%3A%20Recursive%20Self-Improvement%20of%20LLM%20Agents%20via%20Two-Timescale%20Meta-Skill%20Evolution)
 
 ## 6. Healthcare and Personalized AI
 
