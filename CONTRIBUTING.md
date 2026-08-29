@@ -1,6 +1,6 @@
 # Contributing
 
-[← Overview](README.md)
+[← Overview](README.md) · [All papers](ALL_PAPERS.md)
 
 Thank you for helping us keep this collection accurate and up to date. We welcome paper suggestions, official implementations, classification ideas, and corrections.
 
