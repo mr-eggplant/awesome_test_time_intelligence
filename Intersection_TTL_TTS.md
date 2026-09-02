@@ -35,7 +35,7 @@ Although their gains arise through later offline training, these methods show ho
 - `STaR` [Zelikman et al., NeurIPS 2022] **Star: Bootstrapping reasoning with reasoning** [[Paper]](https://arxiv.org/abs/2203.14465) [[G-Scholar]](https://scholar.google.com/scholar?q=Star%3A%20Bootstrapping%20reasoning%20with%20reasoning) [[CODE]](https://github.com/ezelikman/STaR)
 - `ReST-EM` [Singh et al., TMLR 2024] **Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models** [[Paper]](https://arxiv.org/abs/2312.06585) [[G-Scholar]](https://scholar.google.com/scholar?q=Beyond%20Human%20Data%3A%20Scaling%20Self-Training%20for%20Problem-Solving%20with%20Language%20Models)
 - `CARE-STaR` [Li et al., Findings of ACL 2025] **CARE-STaR: Constraint-aware Self-taught Reasoner** [[Paper]](https://aclanthology.org/2025.findings-acl.1116/) [[G-Scholar]](https://scholar.google.com/scholar?q=CARE-STaR%3A%20Constraint-aware%20Self-taught%20Reasoner)
-- `P-TTS` [Bsharat et al., arXiv 2025] **Prompting Test-Time Scaling Is A Strong LLM Reasoning Data Augmentation** [[Paper]](https://arxiv.org/abs/2510.09599) [[G-Scholar]](https://scholar.google.com/scholar?q=Prompting%20Test-Time%20Scaling%20Is%20A%20Strong%20LLM%20Reasoning%20Data%20Augmentation)
+- `P-TTS` [Bsharat et al., Findings of ACL 2026] **Prompting Test-Time Scaling Is A Strong LLM Reasoning Data Augmentation** [[Paper]](https://arxiv.org/abs/2510.09599) [[G-Scholar]](https://scholar.google.com/scholar?q=Prompting%20Test-Time%20Scaling%20Is%20A%20Strong%20LLM%20Reasoning%20Data%20Augmentation)
 
 ### 1.2 Verifier- and Evaluation-Derived Feedback
 
@@ -51,7 +51,7 @@ Although their gains arise through later offline training, these methods show ho
 
 - [Silver et al., Nature 2017] **Mastering the Game of Go without Human Knowledge** [[Record]](https://www.semanticscholar.org/paper/c27db32efa8137cbf654902f8f728f338e55cd1c) [[G-Scholar]](https://scholar.google.com/scholar?q=Mastering%20the%20Game%20of%20Go%20without%20Human%20Knowledge)
 - [Anthony et al., NeurIPS 2017] **Thinking Fast and Slow with Deep Learning and Tree Search** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2017/hash/d8e1344e27a5b08cdfd5d027d9b8d6de-Abstract.html) [[G-Scholar]](https://scholar.google.com/scholar?q=Thinking%20Fast%20and%20Slow%20with%20Deep%20Learning%20and%20Tree%20Search)
-- `ReAct` [Yao et al., ICLR 2023] **ReAct: Synergizing Reasoning and Acting in Language Models** [[Paper]](https://openreview.net/forum?id=WE_vluYUL-X) [[G-Scholar]](https://scholar.google.com/scholar?q=ReAct%3A%20Synergizing%20Reasoning%20and%20Acting%20in%20Language%20Models)
+- `ReAct` [Yao et al., ICLR 2023] **ReAct: Synergizing Reasoning and Acting in Language Models** [[Paper]](https://openreview.net/forum?id=WE_vluYUL-X) [[G-Scholar]](https://scholar.google.com/scholar?q=ReAct%3A%20Synergizing%20Reasoning%20and%20Acting%20in%20Language%20Models) [[CODE]](https://github.com/ysymyth/ReAct)
 - `A³T` [Yang et al., COLM 2024] **ReAct Meets ActRe: When Language Agents Enjoy Training Data Autonomy** [[Paper]](https://arxiv.org/abs/2403.14589) [[G-Scholar]](https://scholar.google.com/scholar?q=ReAct%20Meets%20ActRe%3A%20When%20Language%20Agents%20Enjoy%20Training%20Data%20Autonomy)
 - `ReST-MCTS*` [Zhang et al., NeurIPS 2024] **Rest-mcts\*: Llm self-training via process reward guided tree search** [[Paper]](https://arxiv.org/abs/2406.03816) [[G-Scholar]](https://scholar.google.com/scholar?q=Rest-mcts*%3A%20Llm%20self-training%20via%20process%20reward%20guided%20tree%20search)
 - `AlphaLLM` [Tian et al., NeurIPS 2024] **Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing** [[Paper]](https://arxiv.org/abs/2404.12253) [[G-Scholar]](https://scholar.google.com/scholar?q=Toward%20Self-Improvement%20of%20LLMs%20via%20Imagination%2C%20Searching%2C%20and%20Criticizing)
@@ -86,7 +86,7 @@ Although most controllers are learned before deployment, they show how compute a
 
 - `Toolformer` [Schick et al., NeurIPS 2023] **Toolformer: Language Models Can Teach Themselves to Use Tools** [[Paper]](https://arxiv.org/abs/2302.04761) [[G-Scholar]](https://scholar.google.com/scholar?q=Toolformer%3A%20Language%20Models%20Can%20Teach%20Themselves%20to%20Use%20Tools)
 - `Adaptive-RAG` [Jeong et al., ACL 2024] **Adaptive-rag: Learning to adapt retrieval-augmented large language models through question complexity** [[Paper]](https://arxiv.org/abs/2403.14403) [[G-Scholar]](https://scholar.google.com/scholar?q=Adaptive-rag%3A%20Learning%20to%20adapt%20retrieval-augmented%20large%20language%20models%20through%20question%20complexity) [[CODE]](https://github.com/starsuzi/Adaptive-RAG)
-- `Self-RAG` [Asai et al., ICLR 2024] **Self-RAG: Learning to retrieve, generate, and critique through self-reflection** [[Paper]](https://openreview.net/forum?id=hSyW5go0v8) [[G-Scholar]](https://scholar.google.com/scholar?q=Self-RAG%3A%20Learning%20to%20retrieve%2C%20generate%2C%20and%20critique%20through%20self-reflection)
+- `Self-RAG` [Asai et al., ICLR 2024] **Self-RAG: Learning to retrieve, generate, and critique through self-reflection** [[Paper]](https://openreview.net/forum?id=hSyW5go0v8) [[G-Scholar]](https://scholar.google.com/scholar?q=Self-RAG%3A%20Learning%20to%20retrieve%2C%20generate%2C%20and%20critique%20through%20self-reflection) [[CODE]](https://github.com/akariasai/self-rag)
 - `AdaptThink` [Zhang et al., EMNLP 2025] **Adaptthink: Reasoning models can learn when to think** [[Paper]](https://arxiv.org/abs/2505.13417) [[G-Scholar]](https://scholar.google.com/scholar?q=Adaptthink%3A%20Reasoning%20models%20can%20learn%20when%20to%20think)
 - `Adaptive Parallel Reasoning` [Pan et al., COLM 2025] **Learning Adaptive Parallel Reasoning with Language Models** [[Paper]](https://openreview.net/forum?id=rOKV2ubxgV) [[G-Scholar]](https://scholar.google.com/scholar?q=Learning%20Adaptive%20Parallel%20Reasoning%20with%20Language%20Models)
 - [Paglieri et al., arXiv 2025] **Learning When to Plan: Efficiently Allocating Test-Time Compute for LLM Agents** [[Paper]](https://arxiv.org/abs/2509.03581) [[G-Scholar]](https://scholar.google.com/scholar?q=Learning%20When%20to%20Plan%3A%20Efficiently%20Allocating%20Test-Time%20Compute%20for%20LLM%20Agents)
@@ -108,12 +108,12 @@ Although most controllers are learned before deployment, they show how compute a
 
 #### 3.1.1 Consensus-Derived Rewards
 
-- `TTRL` [Zuo et al., NeurIPS 2025] **TTRL: Test-Time Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2504.16084) [[G-Scholar]](https://scholar.google.com/scholar?q=TTRL%3A%20Test-Time%20Reinforcement%20Learning)
+- `TTRL` [Zuo et al., NeurIPS 2025] **TTRL: Test-Time Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2504.16084) [[G-Scholar]](https://scholar.google.com/scholar?q=TTRL%3A%20Test-Time%20Reinforcement%20Learning) [[CODE]](https://github.com/PRIME-RL/TTRL)
 - `TTRV` [Singh et al., arXiv 2025] **TTRV: Test-Time Reinforcement Learning for Vision Language Models** [[Paper]](https://arxiv.org/abs/2510.06783) [[G-Scholar]](https://scholar.google.com/scholar?q=TTRV%3A%20Test-Time%20Reinforcement%20Learning%20for%20Vision%20Language%20Models)
 
 #### 3.1.2 Verified and Stabilized Rewards
 
-- `SCOPE` [Wang et al., arXiv 2025] **Beyond Majority Voting: Towards Fine-grained and More Reliable Reward Signal for Test-Time Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2512.15146) [[G-Scholar]](https://scholar.google.com/scholar?q=Beyond%20Majority%20Voting%3A%20Towards%20Fine-grained%20and%20More%20Reliable%20Reward%20Signal%20for%20Test-Time%20Reinforcement%20Learning)
+- `SCOPE` [Wang et al., ACL 2026] **Beyond Majority Voting: Towards Fine-grained and More Reliable Reward Signal for Test-Time Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2512.15146) [[G-Scholar]](https://scholar.google.com/scholar?q=Beyond%20Majority%20Voting%3A%20Towards%20Fine-grained%20and%20More%20Reliable%20Reward%20Signal%20for%20Test-Time%20Reinforcement%20Learning)
 - `DARE` [Du et al., arXiv 2026] **Distribution-Aware Reward Estimation for Test-Time Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2601.21804) [[G-Scholar]](https://scholar.google.com/scholar?q=Distribution-Aware%20Reward%20Estimation%20for%20Test-Time%20Reinforcement%20Learning)
 - `T3RL` [Liao et al., arXiv 2026] **Tool Verification for Test-Time Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2603.02203) [[G-Scholar]](https://scholar.google.com/scholar?q=Tool%20Verification%20for%20Test-Time%20Reinforcement%20Learning)
 - `DDRL` [Yu et al., Findings of ACL 2026] **Understanding and Mitigating Spurious Signal Amplification in Test-Time Reinforcement Learning for Math Reasoning** [[Paper]](https://arxiv.org/abs/2604.21327) [[G-Scholar]](https://scholar.google.com/scholar?q=Understanding%20and%20Mitigating%20Spurious%20Signal%20Amplification%20in%20Test-Time%20Reinforcement%20Learning%20for%20Math%20Reasoning)
@@ -127,7 +127,7 @@ Although most controllers are learned before deployment, they show how compute a
 
 #### 3.2.1 Direct Self-Editing
 
-- `SEAL` [Zweiger et al., NeurIPS 2025] **Self-Adapting Language Models** [[Paper]](https://arxiv.org/abs/2506.10943) [[G-Scholar]](https://scholar.google.com/scholar?q=Self-Adapting%20Language%20Models)
+- `SEAL` [Zweiger et al., NeurIPS 2025] **Self-Adapting Language Models** [[Paper]](https://arxiv.org/abs/2506.10943) [[G-Scholar]](https://scholar.google.com/scholar?q=Self-Adapting%20Language%20Models) [[CODE]](https://github.com/Continual-Intelligence/SEAL)
 
 #### 3.2.2 Instance-Conditioned Synthesis
 
