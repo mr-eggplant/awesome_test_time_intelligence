@@ -1,4 +1,4 @@
-# Awesome Test-Time Intelligence [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![arXiv](https://img.shields.io/badge/arXiv-2404.01650-b31b1b.svg)](https://arxiv.org/pdf/2404.01650)
+# Awesome Test-Time Intelligence [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 The official paper collection for **A Survey on Self-Improving Test-Time Intelligence: Feedback-Driven Adapting, Learning, and Scaling at Inference**.
 
