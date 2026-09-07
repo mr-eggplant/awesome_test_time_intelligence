@@ -1,4 +1,4 @@
-# Awesome Test-Time Intelligence [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Test-Time Intelligence [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![arXiv](https://img.shields.io/badge/arXiv-2609.01679-b31b1b.svg)](https://arxiv.org/pdf/2609.01679)
 
 The official paper collection for **A Survey on Self-Improving Test-Time Intelligence: Feedback-Driven Adapting, Learning, and Scaling at Inference**.
 
@@ -14,12 +14,12 @@ Test-time intelligence improves an active deployed system through feedback-drive
 
 | Topic | Scope | Unique papers |
 | --- | --- | ---: |
-| [Test-Time Learning](TTL.md) | Learning from test-time inputs and feedback by updating parameters, representations, modules, or memory. | 282 |
-| [Test-Time Scaling](TTS.md) | Improving current inference through additional reasoning, sampling, search, tools, or external resources w/o model state change. | 84 |
+| [Test-Time Learning](TTL.md) | Learning from test-time inputs and feedback by updating parameters, representations, modules, or memory. | 283 |
+| [Test-Time Scaling](TTS.md) | Improving current inference through additional reasoning, sampling, search, tools, or external resources w/o model state change. | 85 |
 | [Learning and Scaling](Intersection_TTL_TTS.md) | Using inference compute for later learning, learning to allocate compute, and combining both during deployment. | 59 |
-| [Applications](APPLICATIONS.md) | Applying TTI across vision, generative models, language, robotics, agents, and healthcare. | 101 |
+| [Applications](APPLICATIONS.md) | Applying TTI across vision, generative models, language, robotics, agents, and healthcare. | 102 |
 
-**487 unique papers** across four complementary views. See the [complete index](ALL_PAPERS.md).
+**489 unique papers** across four complementary views. See the [complete index](ALL_PAPERS.md).
 
 <p align="center">
   <a href="./assets/tti_evolution_timeline.png">

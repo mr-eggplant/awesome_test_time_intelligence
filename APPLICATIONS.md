@@ -123,6 +123,7 @@ A curated paper list for application domains of Test-Time Intelligence (TTI), or
 - `ToT` [Yao et al., NeurIPS 2023] **Tree of Thoughts: Deliberate Problem Solving with Large Language Models** [[Paper]](https://arxiv.org/abs/2305.10601) [[G-Scholar]](https://scholar.google.com/scholar?q=Tree%20of%20Thoughts%3A%20Deliberate%20Problem%20Solving%20with%20Large%20Language%20Models) [[CODE]](https://github.com/princeton-nlp/tree-of-thought-llm)
 - `Self-RAG` [Asai et al., ICLR 2024] **Self-RAG: Learning to retrieve, generate, and critique through self-reflection** [[Paper]](https://openreview.net/forum?id=hSyW5go0v8) [[G-Scholar]](https://scholar.google.com/scholar?q=Self-RAG%3A%20Learning%20to%20retrieve%2C%20generate%2C%20and%20critique%20through%20self-reflection) [[CODE]](https://github.com/akariasai/self-rag)
 - `TLM` [Hu et al., ICML 2025] **Test-Time Learning for Large Language Models** [[Paper]](https://arxiv.org/abs/2505.20633) [[G-Scholar]](https://scholar.google.com/scholar?q=Test-Time%20Learning%20for%20Large%20Language%20Models) [[CODE]](https://github.com/Fhujinwu/TLM)
+- `SyTTA` [Xu et al., arXiv 2025] **You only need 4 extra tokens: Synergistic Test-time Adaptation for LLMs** [[Paper]](https://arxiv.org/abs/2510.10223) [[G-Scholar]](https://scholar.google.com/scholar?q=You%20only%20need%204%20extra%20tokens%3A%20Synergistic%20Test-time%20Adaptation%20for%20LLMs)
 
 ### 3.2 Vision-Language Adaptation and Verification
 

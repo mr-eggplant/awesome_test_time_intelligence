@@ -1,6 +1,6 @@
 # All Curated Papers
 
-487 unique papers, ordered by year. Category links lead to the relevant topic collections.
+489 unique papers, ordered by year. Category links lead to the relevant topic collections.
 
 [← Overview](README.md)
 
@@ -825,6 +825,8 @@
   - Categories: [Applications: Language & multimodal](APPLICATIONS.md#3-language-and-multimodal-models)
 - `WebRL` [Qi et al., ICLR 2025] **WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning** [[Paper]](https://openreview.net/pdf?id=oVKEAFjEqv) [[G-Scholar]](https://scholar.google.com/scholar?q=WebRL%3A%20Training%20LLM%20Web%20Agents%20via%20Self-Evolving%20Online%20Curriculum%20Reinforcement%20Learning)
   - Categories: [Intersection: training-time-amortization](Intersection_TTL_TTS.md#1-training-time-amortization-from-inference-compute)
+- `SyTTA` [Xu et al., arXiv 2025] **You only need 4 extra tokens: Synergistic Test-time Adaptation for LLMs** [[Paper]](https://arxiv.org/abs/2510.10223) [[G-Scholar]](https://scholar.google.com/scholar?q=You%20only%20need%204%20extra%20tokens%3A%20Synergistic%20Test-time%20Adaptation%20for%20LLMs)
+  - Categories: [TTL: Feedback](TTL.md#1-feedback-signals-for-test-time-learning) · [Applications: Language & multimodal](APPLICATIONS.md#3-language-and-multimodal-models)
 
 ## 2026
 
@@ -997,6 +999,8 @@
   - Categories: [Intersection: active-joint-systems](Intersection_TTL_TTS.md#3-active-deployment-joint-learning-and-scaling)
 - `Interaction Scaling` [Shen et al., NeurIPS 2026] **Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction** [[Paper]](https://arxiv.org/abs/2506.07976) [[G-Scholar]](https://scholar.google.com/scholar?q=Thinking%20vs.%20Doing%3A%20Agents%20that%20Reason%20by%20Scaling%20Test-Time%20Interaction)
   - Categories: [TTS: Compute](TTS.md#1-scaling-internal-inference-compute)
+- `ThinkRetrieve` [Singh et al., Findings of EMNLP 2026] **ThinkRetrieve: Retrieval-Augmented Reasoning Traces for Test-Time Scaling** [[Paper]](https://arxiv.org/abs/2608.10928) [[G-Scholar]](https://scholar.google.com/scholar?q=ThinkRetrieve%3A%20Retrieval-Augmented%20Reasoning%20Traces%20for%20Test-Time%20Scaling) [[CODE]](https://github.com/itsvaibhav01/ThinkRetrieve)
+  - Categories: [TTS: Resources](TTS.md#2-scaling-with-external-resources)
 - `T3RL` [Liao et al., arXiv 2026] **Tool Verification for Test-Time Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2603.02203) [[G-Scholar]](https://scholar.google.com/scholar?q=Tool%20Verification%20for%20Test-Time%20Reinforcement%20Learning)
   - Categories: [TTL: Feedback](TTL.md#1-feedback-signals-for-test-time-learning) · [Intersection: active-joint-systems](Intersection_TTL_TTS.md#3-active-deployment-joint-learning-and-scaling)
 - `TT-SI` [Acikgoz et al., Findings of ACL 2026] **TT-SI: Self-Improving LLM Agents with Test-Time Training** [[Paper]](https://aclanthology.org/2026.findings-acl.462/) [[G-Scholar]](https://scholar.google.com/scholar?q=TT-SI%3A%20Self-Improving%20LLM%20Agents%20with%20Test-Time%20Training)

@@ -95,6 +95,7 @@ A curated paper list for Test-Time Scaling (TTS), organized by internal inferenc
 - `Search-o1` [Li et al., EMNLP 2025] **Search-o1: Agentic Search-Enhanced Large Reasoning Models** [[Paper]](https://arxiv.org/abs/2501.05366) [[G-Scholar]](https://scholar.google.com/scholar?q=Search-o1%3A%20Agentic%20Search-Enhanced%20Large%20Reasoning%20Models) [[CODE]](https://github.com/RUC-NLPIR/Search-o1)
 - `Search-R1` [Jin et al., arXiv 2025] **Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2503.09516) [[G-Scholar]](https://scholar.google.com/scholar?q=Search-R1%3A%20Training%20LLMs%20to%20Reason%20and%20Leverage%20Search%20Engines%20with%20Reinforcement%20Learning) [[CODE]](https://github.com/PeterGriffinJin/Search-R1)
 - `MIRAGE` [Wei et al., AAAI 2026] **MIRAGE: Scaling Test-Time Inference with Parallel Graph-Retrieval-Augmented Reasoning Chains** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/40673) [[G-Scholar]](https://scholar.google.com/scholar?q=MIRAGE%3A%20Scaling%20Test-Time%20Inference%20with%20Parallel%20Graph-Retrieval-Augmented%20Reasoning%20Chains)
+- `ThinkRetrieve` [Singh et al., Findings of EMNLP 2026] **ThinkRetrieve: Retrieval-Augmented Reasoning Traces for Test-Time Scaling** [[Paper]](https://arxiv.org/abs/2608.10928) [[G-Scholar]](https://scholar.google.com/scholar?q=ThinkRetrieve%3A%20Retrieval-Augmented%20Reasoning%20Traces%20for%20Test-Time%20Scaling) [[CODE]](https://github.com/itsvaibhav01/ThinkRetrieve)
 
 ### 2.2 Tool Use and Program Execution
 

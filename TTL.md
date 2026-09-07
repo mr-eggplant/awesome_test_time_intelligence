@@ -117,6 +117,7 @@ A curated paper list for Test-Time Learning (TTL), organized by feedback signals
 - `TEA` [Yuan et al., CVPR 2024] **TEA: Test-time Energy Adaptation** [[Paper]](https://arxiv.org/abs/2311.14402) [[G-Scholar]](https://scholar.google.com/scholar?q=TEA%3A%20Test-time%20Energy%20Adaptation) [[CODE]](https://github.com/yuanyige/tea)
 - `ReCAP` [Hu et al., ICML 2025] **Beyond Entropy: Region Confidence Proxy for Wild Test-Time Adaptation** [[Paper]](https://arxiv.org/abs/2505.20704) [[G-Scholar]](https://scholar.google.com/scholar?q=Beyond%20Entropy%3A%20Region%20Confidence%20Proxy%20for%20Wild%20Test-Time%20Adaptation) [[CODE]](https://github.com/hzcar/ReCAP)
 - `LSCD-TTA` [Liang et al., Int. J. Appl. Earth Obs. Geoinf. 2025] **Low saturation confidence distribution-based test-time adaptation for cross-domain remote sensing image classification** [[Paper]](https://arxiv.org/abs/2408.16265) [[G-Scholar]](https://scholar.google.com/scholar?q=Low%20saturation%20confidence%20distribution-based%20test-time%20adaptation%20for%20cross-domain%20remote%20sensing%20image%20classification)
+- `SyTTA` [Xu et al., arXiv 2025] **You only need 4 extra tokens: Synergistic Test-time Adaptation for LLMs** [[Paper]](https://arxiv.org/abs/2510.10223) [[G-Scholar]](https://scholar.google.com/scholar?q=You%20only%20need%204%20extra%20tokens%3A%20Synergistic%20Test-time%20Adaptation%20for%20LLMs)
 
 #### 1.1.5 Confidence Gating and Filtering
 
