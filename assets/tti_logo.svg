@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 859 496" role="img" aria-labelledby="title">
+  <title id="title">Test-Time Intelligence logo</title>
+  <defs>
+    <linearGradient id="navy" x1="30" y1="35" x2="760" y2="480" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#263b5d"/>
+      <stop offset="1" stop-color="#13233f"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="690" y1="50" x2="795" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff7552"/>
+      <stop offset="1" stop-color="#f45c40"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#navy)" stroke-linecap="round" stroke-linejoin="round" stroke-width="87">
+    <path d="M150 67V314c0 105 113 150 198 77"/>
+    <path d="M64 186h277"/>
+    <path d="M437 67v247c0 105 113 150 198 77"/>
+    <path d="M351 186h235"/>
+  </g>
+  <rect x="677" y="159" width="99" height="316" rx="49.5" fill="url(#navy)"/>
+  <circle cx="726.5" cy="81.5" r="58.5" fill="url(#orange)"/>
+</svg>

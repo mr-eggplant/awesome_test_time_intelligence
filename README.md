@@ -1,8 +1,4 @@
-# Awesome Test-Time Intelligence [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![arXiv](https://img.shields.io/badge/arXiv-2609.01679-b31b1b.svg)](https://arxiv.org/pdf/2609.01679)
-
-<p align="center">
-  <img src="./assets/tti_logo.jpg" alt="TTI logo" width="300">
-</p>
+# Awesome Test-Time Intelligence [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![arXiv](https://img.shields.io/badge/arXiv-2609.01679-b31b1b.svg)](https://arxiv.org/pdf/2609.01679) <img src="./assets/tti_logo.svg" alt="TTI logo" height="22">
 
 The official paper collection for **A Survey on Self-Improving Test-Time Intelligence: Feedback-Driven Adapting, Learning, and Scaling at Inference**.
 
